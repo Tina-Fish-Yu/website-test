@@ -1,0 +1,122 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/DSC_6659裁切.jpg"
+  slider_item:
+    # slider item loop
+    - title : "如果明天比今天難忘，　　你是否也會奮不顧身往前？"
+      content : "願每個孩子，都能帶著無限的勇氣與實踐的動力，擁抱曾經的迷惘與徬徨，邁向充滿驚喜的每個明天。"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "兒少培力"
+        link : "childpower"
+
+    # slider item loop
+    - title : "只要你覺得你可以，　　　　你就可以！"
+      content : "一個人可以走得很快，但一群人可以走得很遠，讓我們一起用荒謬的步伐勇敢前行吧！"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "青年實踐"
+        link : "youthpower"
+
+    # slider item loop
+    - title : "夢想會帶你遠走，　　　　也會帶你回到最初的地方。"
+      content : "我們都會有長大、離開家鄉的那一天，但永遠不會改變的，是記憶中孕育我們的家鄉。"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "社區營造"
+        link : "contact"
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/椅背團徽裁切.jpg"
+  feature_item:
+    # feature item loop
+    - name : "串聯各界青年成為「荒謬夥伴」"
+      icon : "ti-hand-stop" # icon pack : https://themify.me/themify-icons
+      content : "HMT號召各界青年成為「荒謬夥伴」，藉由營隊、工作坊等多元形式的任務，成為教育現場的一線人員，親自陪伴孩子走過一段成長的路。"
+
+    # feature item loop
+    - name : "透過培力與陪伴　　牽起孩子的雙手"
+      icon : "ti-heart" # icon pack : https://themify.me/themify-icons
+      content : "HMT透過舉辦營隊拉近與孩子的距離，並觀察孩子的需求與興趣；在多次的營隊後，HMT將視孩子與社區的情況，攜手部落牽起孩子們的雙手。"
+
+    # feature item loop
+    - name : "走入部落　　　　　共創無邊際學習場域"
+      icon : "ti-home" # icon pack : https://themify.me/themify-icons
+      content : "HMT深知生長環境對教育與學習的影響，也看見部落的生機與底蘊，因此與在地單位合作，共創無邊際學習場域，讓部落成為孩子學習的遊樂場。"
+
+    # feature item loop
+    - name : "擴大各界影響力　　讓勇氣生生不息"
+      icon : "ti-infinite" # icon pack : https://themify.me/themify-icons
+      content : "陪伴夥伴和孩子，就像是在心中種下一顆種子，鼓勵夥伴未來持續在各界發揮影響力，也鼓勵孩子在成長的路上帶著勇氣前行，使勇氣生生不息。"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "關於HMT你好明天"
+  image : "images/about/IMG_1775.JPG"
+  content : "　　HMT致力於偏鄉教育與青年實踐，我們以「願每個孩子，都能帶著無限的勇氣與實踐的動力，擁抱曾經的迷惘與徬徨，邁向充滿驚喜的每一個明天。」為願景，長期深耕南投縣信義鄉，從2019年至今已走入羅娜、信義、人和及久美四間國小，除了進行多元培力課程外，也不斷串聯在地資源，期待能陪伴孩子走得更加長遠。"
+  button:
+    enable : true
+    label : "更多關於我們"
+    link : "about"
+
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : ""
+  title : "與HMT一起邁向精彩的明天！"
+  button:
+    enable : true
+    label : "支持HMT"
+    link : "contact"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/background.jpg"
+  title : "HMT是什麼意思？"
+  content : "「HMT是什麼意思？」這大概是每個朋友初次遇見我們，對我們第一個問題，其實HMT就是Huang-Miu-Tuan，也就是中文「荒謬團」的縮寫，至於會用「荒謬」二字代表團隊，不外乎我們就是一群荒謬的人，做著一堆荒謬的事，想知道我們到底有多荒謬嗎？那就不要猶豫快來認識我們吧！
+            
+          "
+  # video link
+  video_link : "https://www.youtube.com/watch?v=SO8HDQy0HlU&t=8s"
+
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "部落"
+      count : "4"
+
+    # funfact item loop
+    - name : "青年"
+      count : "39"
+
+    # funfact item loop
+    - name : "兒少"
+      count : "60"
+
+    # funfact item loop
+    - name : "社區居民"
+      count : "200"
+
+# funfact is for about page

@@ -1,0 +1,109 @@
+- id: read_more
+  translation: Read More
+
+- id: contact_form
+  translation: Contact Form
+
+- id: send
+  translation: send message
+
+- id: contact_info
+  translation: HMT出隊經歷
+
+- id: subscribe_newsletter
+  translation: 訂閱 HMT你好明天 最新資訊
+
+- id: subscribe
+  translation: Subscribe
+
+- id: contact_us
+  translation: 聯絡我們
+
+- id: latest_article
+  translation: Latest Article
+
+- id: categories
+  translation: Categories
+
+- id: tags
+  translation: Tags
+
+- id: see_all
+  translation: See all
+
+- id: apply_now
+  translation: 更多資訊
+
+- id: posted_by
+  translation: Posted by
+
+- id: date
+  translation: Date
+
+- id: time
+  translation: time
+
+- id: category
+  translation: Category
+
+- id: related_course
+  translation: Related Course
+
+- id: duration
+  translation: duration
+
+- id: weekly
+  translation: weekly
+
+- id: fee
+  translation: fee
+
+- id: teacher
+  translation: teacher
+
+- id: location
+  translation: 位置
+
+
+- id: event_speaker
+  translation: Event Speakers
+
+- id: more_event
+  translation: 更多荒謬旅伴
+
+- id: join
+  translation: Join
+  
+- id: enter_email
+  translation: 輸入您的電子郵件...
+
+- id: company
+  translation: company
+
+- id: links
+  translation: links
+
+
+- id: new_notice
+  translation: HMT期刊
+
+- id: call
+  translation: call
+
+- id: email
+  translation: email
+
+- id: all
+  translation: All
+
+- id: interest
+  translation: 專長/興趣
+
+- id: our_teachers
+  translation: Our Teachers
+
+- id: download
+  translation: Download
+
+- id: job title
+  translation: 職稱
